@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CamX</string>
+    <string name="camera_permission_required">Camera permission is required to use CamX</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="long_exposure">Long Exposure</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="manual_focus">Manual Focus</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="capture">Capture</string>
+    <string name="webgpu_invert">WebGPU Invert</string>
+    <string name="show_original">Show Original</string>
+    <string name="close">Close</string>
+</resources>
